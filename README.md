@@ -11,9 +11,7 @@ This project focuses on analyzing and normalizing a comprehensive chess games da
 
 ## Technologies Used
 
-- **SQL Server**: For database storage and querying.
-- **Jupyter Notebook (with PyODBC)**: For integrating Python and SQL workflows.
-- **Pandas**: For pre-upload data cleaning and transformation.
+- **SQL Server**: For database storage  cleaning and querying.
 
 ## File Descriptions
 
@@ -25,26 +23,9 @@ This project focuses on analyzing and normalizing a comprehensive chess games da
    - Focuses on cleaning raw data imported from external sources.
    - Implements normalization techniques to restructure data for efficiency and integrity.
 
-## How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/repository.git
-   ```
-2. Set up a SQL Server instance and load the provided scripts in the correct sequence:
-   - Start with `cleaning and normalization.sql` for preparing the database.
-   - Use `analyzing.sql` to run insights and analysis queries.
-3. Optionally, connect the database to Python using PyODBC for further automation and reporting.
-
-## Insights and Portfolio Value
+## Insights and value
 
 This project demonstrates proficiency in:
 - **SQL Query Optimization**: Efficiently handling large datasets.
 - **Database Design**: Structuring data for performance and scalability.
 - **Data Analysis**: Extracting actionable insights from structured data.
-
-## Future Enhancements
-
-- Automating ETL processes with Python scripts.
-- Integrating visual dashboards using tools like Tableau or Power BI.
-- Extending analysis to include machine learning predictions for chess strategies.
