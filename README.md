@@ -23,7 +23,7 @@ This project focuses on analyzing and normalizing a comprehensive chess games da
    - Focuses on cleaning raw data imported from external sources.
    - Implements normalization techniques to restructure data for efficiency and integrity.
 
-## Insights and value
+## Insights and values
 
 This project demonstrates proficiency in:
 - **SQL Query Optimization**: Efficiently handling large datasets.
